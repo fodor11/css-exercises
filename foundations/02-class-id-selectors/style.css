@@ -1,0 +1,19 @@
+.pinkElement{
+    background-color: rgb(255, 188, 229);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.coolFactor{
+    font-size: 24px;
+}
+
+#num2{
+    color: rgb(4, 4, 224);
+    font-size: 36px;
+}
+
+#num4{
+    background-color: rgb(130, 255, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
